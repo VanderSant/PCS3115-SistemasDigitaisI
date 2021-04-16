@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file littlesort_uc.vhdl
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 entity littlesort_uc is
     port 
     (  

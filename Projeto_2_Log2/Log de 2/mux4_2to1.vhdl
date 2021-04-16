@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file log2UC.vhdl
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 entity mux4_2to1 is
     port (
       SEL : in bit;    

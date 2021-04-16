@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file resto_fd.vhdl
+--! @brief resto data flow
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 library ieee;
 use ieee.numeric_bit.rising_edge;
 

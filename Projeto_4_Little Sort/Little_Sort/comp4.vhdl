@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file comp4.vhdl
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 entity comp4 is
     port 
     (

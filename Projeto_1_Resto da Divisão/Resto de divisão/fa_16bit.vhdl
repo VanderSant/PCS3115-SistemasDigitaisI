@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file fa_16bit.vhdl
+--! @brief 16 bits adder
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 library ieee;
 use ieee.numeric_bit.rising_edge;
 

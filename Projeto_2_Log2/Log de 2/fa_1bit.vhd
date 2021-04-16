@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file fa_1bit.vhd
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 entity fa_1bit is
        port (
          A,B : in bit;       -- adends

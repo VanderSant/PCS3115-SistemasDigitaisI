@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file equal_detector.vhdl
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 entity equal_detector is
     port(
         A  : in bit_vector (7 downto 0);

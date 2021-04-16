@@ -1,7 +1,7 @@
 ------------------------------------------------------
---! @file fa_1bit.vhd
---! @brief 1-bit full adder
---! @author Vanderson Santos (gomi@usp.br)
+--! @file f_or.vhdl
+--! @brief digital port OR
+--! @author Vanderson Santos (vanderson.santos@usp.br)
 --! @date 06/2020
 -------------------------------------------------------
 

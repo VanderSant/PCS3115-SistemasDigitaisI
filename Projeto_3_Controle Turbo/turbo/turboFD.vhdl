@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file turboFD.vhdl
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 entity turboFD is
     port(
           button        : in bit_vector(7 downto 0);

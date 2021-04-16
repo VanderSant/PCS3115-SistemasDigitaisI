@@ -1,3 +1,10 @@
+------------------------------------------------------
+--! @file turbo.vhdl
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
+
 entity turbo is
     port (
       clock, reset: in bit; 	

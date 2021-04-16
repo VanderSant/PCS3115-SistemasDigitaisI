@@ -1,3 +1,9 @@
+------------------------------------------------------
+--! @file zero_detector.vhdl
+--! @brief 
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
 
 entity zero_detector is
     port (

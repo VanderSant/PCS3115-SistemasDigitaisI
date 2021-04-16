@@ -1,3 +1,9 @@
+------------------------------------------------------
+--! @file mux16_2to1.vhdl
+--! @brief 16 bits multiplexer
+--! @author Vanderson Santos (vanderson.santos@usp.br)
+--! @date 06/2020
+-------------------------------------------------------
 
 entity mux16_2to1 is
     port (

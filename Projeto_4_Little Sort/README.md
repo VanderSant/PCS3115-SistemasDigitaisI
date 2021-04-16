@@ -2,4 +2,4 @@
 
 ## Página única
 
-![Planejamento projeto 3](../assets/planejamento_projeto_4.jpeg)
+![Planejamento projeto 3](../Assets/planejamento_projeto_4.jpeg)
